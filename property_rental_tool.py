@@ -1,8 +1,7 @@
 
-# Program Name:		Renter Choice
+# Program Name:		Property Rental Tool
 # Program Author:	Scott Forsberg
 # Creation Date:	2019-01-15
-# Class:		CSE 110
 # Python Version:	3.7.1
 
 

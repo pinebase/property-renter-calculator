@@ -1,39 +1,37 @@
-                          
-            
                             
-,-.----.                    
-\    /  \   __  ,-.         
-|   :    |,' ,'/ /|         
-|   | .\ :'  | |' | ,---.   
-.   : |: ||  |   ,'/     \  
-|   |  \ :'  :  / /    / '  
-|   : .  ||  | ' .    ' /   
-:     |`-';  : | '   ; :__  
-:   : :   |  , ; '   | '.'| 
-|   | :    ---'  |   :    : 
-`---'.|           \   \  /  
-  `---`            `----'   
-                            
+                       ___     
+,-.----.             ,--.'|_   
+\    /  \   __  ,-.  |  | :,'  
+|   :    |,' ,'/ /|  :  : ' :  
+|   | .\ :'  | |' |.;__,'  /   
+.   : |: ||  |   ,'|  |   |    
+|   |  \ :'  :  /  :__,'| :    
+|   : .  ||  | '     '  : |__  
+:     |`-';  : |     |  | '.'| 
+:   : :   |  , ;     ;  :    ; 
+|   | :    ---'      |  ,   /  
+`---'.|               ---`-'   
+  `---`                        
 
 
 
-Property Renter Calculator
+Property Rental Tool
 
 
 
-https://github.com/pinebase/property-renter-calculator
+https://github.com/pinebase/property-rental-tool
 
 # Author: Scott Forsberg
 # Contact: contact.scottforsberg@gmail.com
 
-# Release Date: 2019-06-10
-# Version: .1
+# Release Date: 2019-06-17
+# Version: .2
 
 
 
 Description
 
-	Provides landlords a way to access the viability of renters according to factors including income and credit score.
+	Interactive tool for accessing the viability of property rental scenarios, with variables including income and credit score.
 
 
 
@@ -47,12 +45,12 @@ Installation
 
 	Download and unzip the program files, then change working directory to them:
 	
-		# cd property-renter-calculator
+		# cd property-rental-tool
 
 
-	Execute the program with your favorite interperetor such as idle, or from the command line:
+		Execute the program with your favorite interperetor such as idle, or from the command line:
 
-		# python property_renter_calculator.py
+		# python property_rental_tool.py		
 
 
 
